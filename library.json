@@ -1,7 +1,7 @@
 {
 	"name": "SimpleRotaryEncoder",
-	"keywords": "rotary encoder, esp8266",
-	"description": "ESP8266 Arduino IDE library for reading  from rotary rotary encoders",
+	"keywords": "rotary encoder, incremental encoder, esp8266, arduino",
+	"description": "Arduino IDE library for reading an incremental rotary encoder, with a push button, with or without using interrupts, on an ESP8266, Arduino, or other Arduino IDE compatible board.",
 	"homepage": "https://github.com/sabeechen/SimpleRotaryEncoder",
 	"repository": {
 		"type": "git",
