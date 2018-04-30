@@ -1,0 +1,17 @@
+{
+	"name": "SimpleRotaryEncoder",
+	"keywords": "rotary encoder, esp8266",
+	"description": "ESP8266 Arduino IDE library for reading  from rotary rotary encoders",
+	"homepage": "https://github.com/sabeechen/SimpleRotaryEncoder",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sabeechen/SimpleRotaryEncoder"
+	},
+	"version": "1.0.0",
+	"authors": {
+		"name": "Stephen Beechen",
+		"url": "https://github.com/sabeechen"
+	},
+	"frameworks": "arduino",
+	"platforms": "*"
+}
